@@ -1,0 +1,64 @@
+{
+  "commit": "fdfb711f24328512c1f9e689fca5ce5e7e0bcf2a",
+  "browser": "BrowserOS Neo",
+  "environment": "isolated temporary Pi Pocket demo",
+  "scriptedModel": true,
+  "realFileTools": true,
+  "pngCount": 6,
+  "screenshots": [
+    {
+      "file": "01-desktop-goal-active.png",
+      "caption": "Desktop: active loop",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 109977,
+      "sha256": "6f445578366d92e834d2276566e5f0e0190547d0496b0c3defcf1741f904cbe7",
+      "capturedAt": "2026-11-13T23:54:41.554958+00:00"
+    },
+    {
+      "file": "02-desktop-goal-completed.png",
+      "caption": "Desktop: verified completion after 2 evaluated turns",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 109626,
+      "sha256": "884cc793489d6c654d3b5c6853ead2880a30fff22e66e17606f887f5100cf523",
+      "capturedAt": "2026-11-13T23:55:26.435480+00:00"
+    },
+    {
+      "file": "03-mobile-goal-bar.png",
+      "caption": "Mobile: persistent Goal bar",
+      "width": 390,
+      "height": 844,
+      "bytes": 41968,
+      "sha256": "8796d752f21d256a556b62a2f1aa1f70fbfed62ff6f2379a137789efc0474132",
+      "capturedAt": "2026-11-13T23:55:59.500713+00:00"
+    },
+    {
+      "file": "04-mobile-goal-controls.png",
+      "caption": "Mobile: paused Goal controls",
+      "width": 390,
+      "height": 844,
+      "bytes": 47678,
+      "sha256": "2df51bccbf0f923c89aeefb679cf8ace690931d79486e8cefb40612ec1d24773",
+      "capturedAt": "2026-11-13T23:56:41.003602+00:00"
+    },
+    {
+      "file": "05-mobile-goal-edit.png",
+      "caption": "Mobile: edit the objective",
+      "width": 390,
+      "height": 844,
+      "bytes": 50310,
+      "sha256": "22ac3b006d6703e77d60d17bb8de4fb0acf2efa74971f9d6fa15e94dbf0b40f0",
+      "capturedAt": "2026-11-13T23:57:01.024060+00:00"
+    },
+    {
+      "file": "06-desktop-goal-delete.png",
+      "caption": "Desktop: deletion confirmation",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 107923,
+      "sha256": "21094ffb73d3d0b8cbca2dfb4614f11696ba82726445592c0c8536ccc44d3c73",
+      "capturedAt": "2026-11-13T23:57:22.460359+00:00"
+    }
+  ]
+}
